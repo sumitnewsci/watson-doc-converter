@@ -1,4 +1,4 @@
 watson-doc-converter
 ====================
 
-Watson Document Convertre
+Watson Document Converter
